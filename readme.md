@@ -15,10 +15,3 @@ This tool uses the **Karvonen method (Heart Rate Reserve - HRR)** and **$VO_2max
 * **Python**
 * **Streamlit** (for the web GUI)
 * **Pandas** (for CSV data handling)
-
-## How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
