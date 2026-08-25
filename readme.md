@@ -3,6 +3,9 @@
 ## The app:
 https://zonytepu.streamlit.app
 
+### Swift:
+https://github.com/TommiBu/ZonyTepu -> exploratory try of transfer from streamlit to swift
+
 A simple and interactive web application built with Python and Streamlit to calculate optimal heart rate zones for physical training. 
 
 This tool uses the **Karvonen method (Heart Rate Reserve - HRR)** and **$VO_2max$** to prescribe safe and effective exercise intensity based on the user's age, gender, resting heart rate, and overall fitness level.
